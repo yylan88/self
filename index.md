@@ -6,20 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### profile
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+大家好，我叫余穎嵐，現在是輔大資工二乙的學生，興趣是睡覺，喜歡鱷魚。
 
-```markdown
-Syntax highlighted code block
+<img src="https://imgur.com/ptvlKMU" alt="cute wavepepi">
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
