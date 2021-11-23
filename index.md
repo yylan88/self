@@ -6,7 +6,7 @@ hello everyone, my name is yylan88.
 
 大家好，我叫余穎嵐，現在是輔大資工二乙的學生，興趣是睡覺，喜歡鱷魚。
 <div class="photo">  
-  <img src="https://i.imgur.com/ptvlKMU.jpegs" alt="cute wavepepi" class="img-responsive">
+  <img src="https://i.imgur.com/ptvlKMU.jpgegs" alt="cute wavepepi">
 </div>
 
 <p>Things I love:</p>
