@@ -1,14 +1,15 @@
-## Welcome to yylan88's Pages
+<head>
+<div class="profile">
+  <h2 class="green-text">profile</h2>
+</div>
 
-hello everyone, my name is yylan88.
-
-### profile
-
+hello everyone, my name is yylan88. Welcome to my pages.
 大家好，我叫余穎嵐，現在是輔大資工二乙的學生，興趣是睡覺，喜歡鱷魚。
+
 <div class="photo">  
   <img src="https://i.imgur.com/ptvlKMU.jpgegs" alt="cute wavepepi">
 </div>
-<head>
+
 <p>Things I love:</p>
   <ul>
     <li>sleeping</li>
