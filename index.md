@@ -34,7 +34,7 @@ hello everyone, my name is yylan88.
 
       <script>
         function myFunction() {
-        alert("I am an alert box!");
+        alert("you're really something!Nice to meet you.");
       }
 </script>
   </div>
