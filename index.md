@@ -11,7 +11,8 @@ hello everyone, my name is yylan88. Welcome to my pages.
         function myFunction() {
         window.location.href = "https://www.facebook.com/profile.php?id=100007237871660";
       }
-
+      </script>
+      
 <div class="photo">  
   <img src="https://i.imgur.com/ptvlKMU.jpgegs" alt="cute wavepepi">
 </div>
