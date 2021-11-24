@@ -29,7 +29,13 @@ hello everyone, my name is yylan88.
       <label><input type="checkbox" name="personality"> eating</label>
       <label><input type="checkbox" name="personality"> listen to music</label>
       <input type="text" placeholder="other" required>
-      <button type="submit">Submit</button>
+      <button onclick ="myFunction()">Submit</button>
+
+      <script>
+function myFunction() {
+  alert("I am an alert box!");
+}
+</script>
   </div>
 
 ```
