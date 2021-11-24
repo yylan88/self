@@ -1,4 +1,3 @@
-<head>
 ## Welcome to yylan88's Pages
 
 hello everyone, my name is yylan88.
@@ -9,7 +8,7 @@ hello everyone, my name is yylan88.
 <div class="photo">  
   <img src="https://i.imgur.com/ptvlKMU.jpgegs" alt="cute wavepepi">
 </div>
-
+<head>
 <p>Things I love:</p>
   <ul>
     <li>sleeping</li>
