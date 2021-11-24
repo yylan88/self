@@ -10,18 +10,19 @@ hello everyone, my name is yylan88. Welcome to my pages.
   <img src="https://i.imgur.com/ptvlKMU.jpgegs" alt="cute wavepepi">
 </div>
 
-<p>Things I love:</p>
+<h2 class="green-text">Things I love:</h2>
   <ul>
     <li>sleeping</li>
     <li>eating</li>
     <li>listen to music</li>
   </ul>
-  <p>things I hate:</p>
+<h2 class="green-text">Things I hate:</h2>
   <ol>
     <li>swimming</li>
     <li>dancing</li>
     <li>hiking</li>
   </ol>
+<h2 class="green-text">Let me know you</h2>
   <div class="let me know you">
     <p>what do you like to do:</p>
       <label><input type="checkbox" name="personality"> sleeping</label>
