@@ -1,3 +1,4 @@
+<head>
 ## Welcome to yylan88's Pages
 
 hello everyone, my name is yylan88.
@@ -32,11 +33,12 @@ hello everyone, my name is yylan88.
       <button onclick ="myFunction()">Submit</button>
 
       <script>
-function myFunction() {
-  alert("I am an alert box!");
-}
+        function myFunction() {
+        alert("I am an alert box!");
+      }
 </script>
   </div>
+  </head>
 
 ```
 
