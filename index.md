@@ -3,7 +3,7 @@
   <h2 class="green-text">profile</h2>
 </div>
 
-hello everyone, my name is yylan88. Welcome to my pages.
+hello everyone, my name is Yu YingLan. Welcome to my pages.
 
 <button onclick ="myFacebook()">facebook</button>
 
@@ -13,6 +13,7 @@ hello everyone, my name is yylan88. Welcome to my pages.
       }
       </script>
 
+<h2 class="green-text">my crocodile</h2>
 <div class="photo">  
   <img src="https://i.imgur.com/ptvlKMU.jpgegs" alt="cute wavepepi">
 </div>
