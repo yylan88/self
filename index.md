@@ -4,7 +4,13 @@
 </div>
 
 hello everyone, my name is yylan88. Welcome to my pages.
-大家好，我叫余穎嵐，現在是輔大資工二乙的學生，興趣是睡覺，喜歡鱷魚。
+
+<button onclick ="myFunction()">facebook</button>
+
+      <script>
+        function myFunction() {
+        window.location.href = "https://www.facebook.com/profile.php?id=100007237871660";
+      }
 
 <div class="photo">  
   <img src="https://i.imgur.com/ptvlKMU.jpgegs" alt="cute wavepepi">
